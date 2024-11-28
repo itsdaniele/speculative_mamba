@@ -1,0 +1,12 @@
+*__pycache__/
+*.egg-info/
+build/
+**.so
+.vscode/
+log/
+checkpoints/
+data/
+wandb/
+*.pt
+*.lock
+.roperoject
