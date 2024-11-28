@@ -14,6 +14,7 @@ This code, together with [this](https://github.com/jxiw/MambaInLlama), accompani
 - **Customizable Generation Parameters**: Adjust decoding hyperparameters like temperature, top-k, and top-p.
 - **CUDA Graph Support**: Optional CUDA graph acceleration for faster execution.
 
+
 ---
 
 ## Getting Started
@@ -95,6 +96,12 @@ In the last year, the country has had three different Prime Ministers: Mario Mon
 ```
 
 *Note*: your output and acceptance rate will vary.
+
+---
+
+## TODO
+
+- Add examples with hybrid models.
 
 ---
 
